@@ -1,0 +1,6 @@
+{
+  "name": "Kariyer & Mülakat Koçu AI",
+  "description": "Görüşmeci unvanına göre özel mülakat soruları üreten, STAR metodolojisiyle canlı sesli/yazılı simülasyon sunan ve tamamlanan eğitimleri analiz ederek üniversite mezunları ve profesyoneller için kariyer gelişim yol haritası çıkaran yapay zeka asistanı.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
